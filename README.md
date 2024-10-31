@@ -1,6 +1,12 @@
-### 👋 Hi, I’m @Gitfoe or also known as Wafoe. My name's Julian and I'm from the Netherlands.
-📚 I'm a Disciplined  student HBO-ICT and graduated MBO ICT administrator with a broad field of interest. I have had a passion for computer systems since 2010 and it has only grown over the years. I have knowledge of IT infrastructure design and security, software development, IT business management and data science. My goal is to secure and keep safe the ever-expanding online world. I also own my own film company.
-🖖 I like to split my daily activities into work-related skills and personal hobbies.
-* 🖥️ Within my IT engineering/science bachelor’s, I have an interest in security, forensics, software development, business management, data science, and infrastructure/network design. You could say that I am broadly oriented in IT and enjoy many different aspects of it.
-* 📷 Outside my study, I am a self-employed video producer and love to do anything video, photo, and audio production-related. For instance, I have gathered quite a big following on YouTube, consisting of mostly technology-related informational videos, gaming content, and humour.
-* ⚽ For pastime activities, you will usually see me enjoying nature, working out, playing a game, or learning a miscellaneous skill. I am quite open to new experiences, so my daily activities and hobbies will vary from time to time. Currently, I am focussing on professional photography and learning the piano.
+## 👋 Hi, I’m @Gitfoe or also known as Wafoe. My name's Julian and I'm from the Netherlands.
+### 🚀 Data Protection & Privacy Technologist | Cognitive Scientist in Training | Privacy & Security Enthusiast
+
+Welcome to my GitHub profile! I’m currently working as a Data Protection & Privacy Technologist at SURF, where I’m part of the Vendor Compliance team. Here, I focus on making sure the applications and systems used by Dutch educational and research institutions meet top-notch privacy and security standards. My role is hands-on: I dive deep into technical investigations, scrutinize data flows, and advise vendors on ways to tighten up their systems and minimize risks.
+
+With a Bachelor’s in Information & Communication Technologies, I built a solid foundation in cybersecurity, software development, and project management. Next to my job at SURF, I’m also pursuing a Master’s in Cognitive Science, where I focus primarily on Artificial Intelligence. My studies are driven by a deep curiosity about how the mind functions and how AI will shape the future of privacy and security. I’m especially interested in exploring the intersection of AI and data protection—how we can use AI responsibly to enhance privacy and security without compromising ethics.
+
+### 🔎 Let’s Connect!
+
+I’m always eager to connect with like-minded individuals in the fields of IT security, privacy, AI, and beyond. Whether you’re curious about my work at SURF, want to discuss the latest in privacy regulations, or are simply interested in sharing knowledge, don’t hesitate to reach out!
+
+#### Feel free to explore my repositories, which mainly showcase projects from my Bachelor's and Master's programs.
